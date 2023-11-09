@@ -16,7 +16,7 @@ namespace QuickDate
 
         internal static DateTime GetCurrentDate()
         {
-            return DateTime.Now.Date;
+            return DateTime.Now.Date+"hui";
         }
     }
 }
