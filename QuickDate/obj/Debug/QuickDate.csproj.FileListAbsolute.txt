@@ -1,0 +1,7 @@
+D:\PROJECT\Solution1\Project1\bin\Debug\Project1.exe.config
+D:\PROJECT\Solution1\Project1\bin\Debug\Project1.exe
+D:\PROJECT\Solution1\Project1\bin\Debug\Project1.pdb
+D:\PROJECT\Solution1\Project1\obj\Debug\QuickDate.csproj.AssemblyReference.cache
+D:\PROJECT\Solution1\Project1\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+D:\PROJECT\Solution1\Project1\obj\Debug\Project1.exe
+D:\PROJECT\Solution1\Project1\obj\Debug\Project1.pdb
