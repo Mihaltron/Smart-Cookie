@@ -11,6 +11,7 @@ namespace QuickDate
         {
             DateTime now = GetCurrentDate();
             Console.WriteLine($"Today's date is {now}");
+            Console.WriteLine("another update");
             Console.ReadLine();
         }
 
